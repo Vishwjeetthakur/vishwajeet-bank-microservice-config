@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome To Thakur Bank Accounts Related QA Api"
+  contactDetails:
+    name: "Vidhi Pandey QA Lead"
+    email: "vidhi@gmail.com"
+  onCallSupport:
+      - (222) 222-1234
+      - (222) 222-4561

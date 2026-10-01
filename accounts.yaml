@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.O"
+
+accounts:
+  message: "Welcome To Thakur Bank Accounts Related local Api"
+  contactDetails:
+    name: "Vishwajeet Thakur"
+    email: "vishwajeett60@gmail.com"
+  onCallSupport:
+      - (555) 555-1234
+      - (555) 555-4561
