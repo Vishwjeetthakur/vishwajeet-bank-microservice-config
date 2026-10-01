@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome To Thakur Bank Accounts Related Production Api"
+  message: "Welcome To Thakur Bank Accounts Related prod Api"
   contactDetails:
     name: "Samridhi Choubey"
     email: "Samridhi@gmail.com"
